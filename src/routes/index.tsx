@@ -7,7 +7,7 @@ export default component$(() => {
       <h1 class="p-10 font-extrabold text-transparent text-8xl bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600">
         DUMB BITCH NAMED PIPPA .com
       </h1>
-      <img src={`/images/pippa.png`} alt="pippa" class="h-100 w-100" />
+      <img src={`/images/pippa.png`} alt="pippa" class="h-[75%] w-[75%]" />
     </div>
   );
 });
